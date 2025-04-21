@@ -26,4 +26,4 @@ By using **Standard Bot** on Discord, you agree to the following terms of servic
 - Continued use of the bot after any changes means you agree to the updated terms.
 
 ## 6. Contact
-For questions, data requests, or reports, contact the developer on Discord: `@markvaaz` (replace with your actual username).
+For questions, data requests, or reports, contact the developer on Discord: `@markvaaz`.
