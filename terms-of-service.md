@@ -1,11 +1,11 @@
-# Terms of Service – Standard Bot
+# Terms of Service – Nova
 
 **Last Updated:** April 20, 2025
 
-By using **Standard Bot** on Discord, you agree to the following terms of service:
+By using **Nova** on Discord, you agree to the following terms of service:
 
 ## 1. General Use
-- Standard Bot is provided "as is", with no guarantees of uptime, performance, or technical support.
+- Nova is provided "as is", with no guarantees of uptime, performance, or technical support.
 - You agree to use the bot responsibly and in accordance with Discord's Terms of Service.
 
 ## 2. Data Collection
@@ -18,7 +18,7 @@ By using **Standard Bot** on Discord, you agree to the following terms of servic
 - Use of the bot for spam, abuse, or unauthorized data harvesting may result in a ban and possible report to Discord.
 
 ## 4. Liability
-- The developer of Standard Bot is not responsible for any direct or indirect damages caused by the use of the bot.
+- The developer of Nova is not responsible for any direct or indirect damages caused by the use of the bot.
 - You use the bot at your own risk.
 
 ## 5. Changes to Terms
