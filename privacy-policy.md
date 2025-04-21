@@ -1,11 +1,11 @@
-# Privacy Policy – Standard Bot
+# Privacy Policy – Nova
 
 **Last Updated:** April 20, 2025
 
-This Privacy Policy explains how **Standard Bot** collects, uses, and protects data when you interact with the bot on Discord.
+This Privacy Policy explains how **Nova** collects, uses, and protects data when you interact with the bot on Discord.
 
 ## 1. What Data We Collect
-Standard Bot may collect and temporarily store the following data:
+Nova may collect and temporarily store the following data:
 - **User IDs** and **Server IDs** for identifying who used the bot and where.
 - **Command messages** for processing interactions.
 - **Timestamps** of bot usage.
